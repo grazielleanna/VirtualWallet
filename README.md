@@ -48,9 +48,9 @@ Para rodar o aplicativo você precisa de um emulador Android/IOS.
 
 ```bash
 # Vá para a pasta
-$ cd mobile
+$ cd App
 
-# Instale as depedencias
+# Instale as dependências
 $ npm install
 
 # Rode a aplicação
